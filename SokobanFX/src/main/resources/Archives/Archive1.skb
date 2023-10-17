@@ -1,0 +1,179 @@
+MapSetName: Mario
+LevelMoveCount: 61 174 142 509 535 0 0 0 
+LevelIndex: 5
+LevelName: lEVEL 1
+WWWWWWWWWWWWWWWWWWWW
+W    W             W
+W    W OS          W
+W    W      WWWWWWWW
+W    WWWW  WWWWWWWWW
+W            WWWWWWW
+W    WWWWW   WWWWWWW
+W    WWWWWWWWWWWWWWW
+W    WWWWWWWWWWWWWWW
+W    WWWWWWWWWWWWWWW
+W    WWWWWWWWWWWWWWW
+W           WWWWWWWW
+W         WWWWWWWWWW
+WWWWWWW   WWWWWWWWWW
+WWWWWWW   WWWWWWWWWW
+WWWWWWW   WWWWWWWWWW
+WWWWWWW   WWWWWWWWWW
+WWWWWWW   WWWWWWWWWW
+WWWWWWW    WWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 2
+WWWWWWWWWWWWWWWWWWWW
+W    W             W
+W    W             W
+W    W      WW WWWWW
+WO   WWWWWW W     OW
+W      O           W
+W           W      W
+W      S    WWWWWWWW
+W           WWWWWWWW
+W           WWWWWWWW
+W           WWWWWWWW
+W           WWWWWWWW
+WW          WWWWWWWW
+WWW       WWW  WWWWW
+WWWW      W     WWWW
+WWWWW     WO    WWWW
+WWWWWW    WWWW WWWWW
+WWWWWWW            W
+WWWWWWWWWW         W
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 3
+WWWWWWWWWWWWWWWWWWWW
+W    WWW  WWWWWWWWWW
+W                  W
+W    WWWW WWWWWWWW W
+W      S  WWWWWWWW W
+W    OO            W
+WWWWWOWWWWWWWWWWWW W
+W                  W
+W WWW W            W
+W W   W            W
+W    WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW WWWW            W
+W                  W
+W   WWW           OW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: Level 4
+WWWWWWWWWWWWWWWWWWWW
+W  WWWO            W
+W  WWWWWSWWWWWWWW WW
+W     OW W         W
+WW WWWWW W         W
+WW    OW W         W
+WW  W  W W WWWWWW WW
+WWW W WW           W
+WWW W WW W WWWWWWWWW
+W     WW WWWO      W
+W  W  WW WWW       W
+WW WWWWW WWW       W
+WW WWWWW WWWW WWWWWW
+WW                 W
+WW  WWWW           W
+WWWWW  W  WWWWWW  WW
+WWWWW             WW
+WWWWW W           WW
+WO      WWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 5
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWW   W
+WWWO       D      DW
+WWWWW W WWWWW WW  WW
+WWWWW C  WWWW WWW WW
+W     W  WWWW   W WW
+W WWWWW WWWWW W W WW
+W WWWWW       W WCWW
+W WWWWW WWWWW W  C W
+WD            W    W
+WWWWWWWWW WWW WWWWWW
+WWOWWWWWWTWWW      W
+W         WWWWWWWW W
+W  WWWWWW WWWWWW   W
+W  WWWWWW WWW    WWW
+WW WWWWWWC WW WWWWOW
+W  W       OW      W
+W                  W
+WWWW  WWWWW    WWWWW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 6
+WWWWWWWWWWWWWWWWWWWW
+WW  DDDWW         DW
+WW   WWWW          W
+WWWC    W          W
+W   W   W          W
+W C WCW W          W
+W   W              W
+WWWWWWWWWWCWWWWWWWWW
+W               W  W
+W               W  W
+W             WWW  W
+W             WD   W
+WD            WWW  W
+WWWWWWCWWW      W WW
+WW     WWW      W WW
+WWCWWW   W   C  W WW
+W S C  C W      W WW
+W DDW C WW         W
+WWDDW   WW         W
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 7
+WWWWWWWWWWWWWWWWWWWW
+WS  WWWWW    W     W
+W CCWWWWW    W  D  W
+W C WWWDW    W     W
+WWW WWWDW    W     W
+WWW    DW    W     W
+WW   W  W    W     W
+WW   WWWW    W     W
+WWWWCWWWW    WWWWOWW
+W                  W
+W                  W
+W                  W
+W    WWWWWW        W
+W    WW  WW        W
+W      C WW    C   W
+W    WWC WW        W
+W    WW C W        W
+W    WDC  W        W
+W    WDDODW       DW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 8
+WWWWWWWWWWWWWWWWWWWW
+W      WWWW     WWWW
+W      W   DWWW WWWW
+W   S  W W W    WWWW
+W      W W C CWD WWW
+W      W W  O  W WWW
+W      W DWC C W WWW
+W      WW    W W WWW
+W      WW WWWD     W
+W      WW     WW   W
+W      WWWWWWWWWWW W
+W                  W
+WW WWWWW           W
+WW   WWW           W
+WW C  WW           W
+WWW W WW     C     W
+WDW W  W           W
+WDC  W W           W
+WD   C W          DW
+WWWWWWWWWWWWWWWWWWWW
+

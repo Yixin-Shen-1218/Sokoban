@@ -1,0 +1,178 @@
+MapSetName: New Game!
+LevelMoveCount: 0 0 0 0 0 0 0 0
+LevelIndex: 1
+LevelName: lEVEL 1
+WWWWWWWWWWWWWWWWWWWW
+W    W             W 
+W C  W D           W
+w    w      WWWWWWWW
+w    WWWW  WWWWWWWWW
+w            WWWWWWW 
+w    WWWWW   WWWWWWW 
+w    WWWWWWWWWWWWWWW 
+w    WWWWWWWWWWWWWWW 
+W    WWWWWWWWWWWWWWW 
+w    WWWWWWWWWWWWWWW 
+w           WWWWWWWW 
+w         WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   WWWWWWWWWW 
+wWWWWWW   SWWWWWWWWW
+wwwwwwwwWwwwwwwwwwww
+
+LevelName: lEVEL 2
+WWWWWWWWWWWWWWWWWWWW
+W    W             W 
+W C  W C           W 
+w C  w      WW WWWWW 
+wD   WWWWWW W C   DW 
+w      D           W 
+w           W      W 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w           WWWWWWWW 
+w      S    WWWWWWWW 
+wW          WWWWWWWW 
+wWW       WWW  WWWWW 
+wWWW      W     WWWW 
+wWWWW     WD    WWWW 
+wWWWWW    WWWW WWWWW 
+wWWWWWW            W 
+wWWWWWWWWW         W 
+wwwwwwwwwwwwwwwwwwww
+
+LevelName: lEVEL 3
+WWWWWWWWWWWWWWWWWWWW
+W    WWW  WWWWWWWWWW
+W                  W
+W    WWWW WWWWWWWW W
+W   CC    WWWWWWWW W
+W   CDD            W
+WWWWWDWWWWWWWWWWWW W
+W                  W
+W WWW W            W
+W W   W            W
+W    WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW   WW            W
+WW WWWW            W
+W               SC W
+W   WWW           DW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: Level 4
+WWWWWWWWWWWWWWWWWWWW
+W  WWWD            W
+W  WWWWW WWWWWWWW WW
+W     DW W       C W
+WW WWWWW W       C W
+WW    DW W         W
+WW  W  W W WWWWWW WW
+WWW W WW           W
+WWW W WW W WWWWWWWWW
+W     WW WWWD      W
+W  W  WW WWW       W
+WW WWWWW WWW       W
+WW WWWWW WWWW WWWWWW
+WW       S         W
+WW  WWWW           W
+WWWWW  W  WWWWWWCCWW
+WWWWW             WW
+WWWWW W         C WW
+WD      WWWWWWWWWWWW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 5
+WWWWWWWWWWWWWWWWWWWW
+WWWWWWWWWWWWWWWW   W
+Wwwd       d      DW
+Wwwww wcwwwww ww  ww
+Wwwww  c wwww www wW
+W     w  wwww   w wW
+W wwwww wwwww w w wW
+W wwwww       w wcwW
+W wwwww wwwww w  c W
+Wd            w    W
+Wwwwwwwww www wwwwwW
+Wwdwwwwwwdwww s    W
+W c       wwwwwwww W
+W cwwwwww wwwwww   W
+W  wwwwww www    wwW
+Ww wwwwww  ww wwwwdW
+W  w      cdw      W
+W          c       W
+Wwww  wwwww    wwwwW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 6
+WWWWWWWWWWWWWWWWWWWW
+WW  DDDWW         DW
+WW   WWWW          W
+WWWC    W          W
+W   W   W          W
+W C WCW W          W
+W   W              W
+WWWWWWWWWWCWWWWWWWWW
+W               W  W
+W               W  W
+W             WWW  W
+W             WD   W
+WD            WWW  W
+WWWWWWCWWW      W WW
+WW     WWW      W WW
+WWCWWW   W   C  W WW
+W S C  C W      W WW
+W DDW C WW         W
+WWDDW   WW         W
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 7
+WWWWWWWWWWWWWWWWWWWW
+WS  WWWWW    W     W
+W CCWWWWW    W  D  W
+W C WWWDW    W     W
+WWW WWWDW    W     W
+WWW    DW    W     W
+WW   W  W    W     W
+WW   WWWW    W     W
+WWWWCWWWW    WWWWOWW
+W                  W
+W                  W
+W                  W
+W    WWWWWW        W
+W    WW  WW        W
+W      C WW    C   W
+W    WWC WW        W
+W    WW C W        W
+W    WDC  W        W
+W    WDDODW       DW
+WWWWWWWWWWWWWWWWWWWW
+
+LevelName: lEVEL 8
+WWWWWWWWWWWWWWWWWWWW
+W      WWWW     WWWW
+W      W   DWWW WWWW
+W   S  W W W    WWWW
+W      W W C CWD WWW
+W      W W  O  W WWW
+W      W DWC C W WWW
+W      WW    W W WWW
+W      WW WWWD     W
+W      WW     WW   W
+W      WWWWWWWWWWW W
+W                  W
+WW WWWWW           W
+WW   WWW           W
+WW C  WW           W
+WWW W WW     C     W
+WDW W  W           W
+WDC  W W           W
+WD   C W          DW
+WWWWWWWWWWWWWWWWWWWW

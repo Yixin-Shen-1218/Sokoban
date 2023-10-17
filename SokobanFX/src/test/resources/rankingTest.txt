@@ -1,0 +1,28 @@
+MapSetName: Alan
+LevelMoveCount: 56 145 103 560 302 324 256 287
+MapSetName: Jack
+LevelMoveCount: 50 100 100 500 300 300 250 216
+MapSetName: Tom
+LevelMoveCount: 50 50 910 242 234 542 120 260
+MapSetName: Joyce
+LevelMoveCount: 66 86 346 355 686 421 444 685
+MapSetName: UU
+LevelMoveCount: 23 453 535 45 211 356 135 235
+MapSetName: qwq
+LevelMoveCount: 34 53 234 5354 53 42 3223 434
+MapSetName: YvY
+LevelMoveCount: 244 424 452 51 133 42 211 232
+MapSetName: Alan
+LevelMoveCount: 56 145 103 560 302 324 256 283 
+MapSetName: Lee
+LevelMoveCount: 56 100 100 500 300 300 204 80 
+MapSetName: Jimi
+LevelMoveCount: 56 145 103 560 302 324 256 283 
+MapSetName: Jym
+LevelMoveCount: 56 100 103 560 302 324 256 283 
+MapSetName: Alan
+LevelMoveCount: 56 145 103 560 302 324 256 295 
+MapSetName: pwq
+LevelMoveCount: 60 60 60 60 60 60 100 216
+MapSetName: Jenny
+LevelMoveCount: 56 55 54 120 300 362 100 241 
